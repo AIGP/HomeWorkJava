@@ -2,7 +2,7 @@ package HomeWork6;
 
 import java.util.Random;
 
-public class Dog {
+public class Dog extends Animal{
     int restriction;
     Dog(){
         Random random = new Random();
